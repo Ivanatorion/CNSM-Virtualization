@@ -1,0 +1,17 @@
+*.dot
+include/pcheaders.h.gch
+.vscode/*
+p4c/*
+bin/*.o
+samples/*
+PortFiles/*
+output/*
+VP4C
+P4-16*.pdf
+src/parser.tab.c
+src/parser.tab.h
+src/lex.yy.c
+tags
+Session.vim
+merged.p4
+test/*.sh
